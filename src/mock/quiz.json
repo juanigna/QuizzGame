@@ -1,0 +1,28 @@
+{
+    "questions":[
+        {
+            "questionText":"Cual es la capital de Argentina: ",
+            "ansewerOptions":[
+                {"answerText":"Tucuman", "isCorrect":false},
+                {"answerText":"Buenos Aires", "isCorrect":true},
+                {"answerText":"La Rioja", "isCorrect":false}
+            ]
+        },
+         {
+            "questionText":"Como se llamo el primer presidente de Argentina: ",
+            "ansewerOptions":[
+                {"answerText":"Rosas", "isCorrect":false},
+                {"answerText":"Macri", "isCorrect":false},
+                {"answerText":"Bernardino Rivadavia", "isCorrect":true}
+            ]
+        },
+        {
+            "questionText":"Como se llama la arquitectura famosa ubicada en Buenos Aires?: ",
+            "ansewerOptions":[
+                {"answerText":"Obelisco", "isCorrect":true},
+                {"answerText":"Talampaya", "isCorrect":false},
+                {"answerText":"El menem", "isCorrect":false}
+            ]
+        }
+    ]
+}
